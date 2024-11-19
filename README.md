@@ -15,17 +15,38 @@
   <div style="display: flex; align-items: center; justify-content: center; padding: 10px 20px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" />
   </div>
-  
+
+  <!-- Additional Skills -->
+  <div style="display: flex; align-items: center; justify-content: center; padding: 10px 20px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" />
+  </div>
+
+  <div style="display: flex; align-items: center; justify-content: center; padding: 10px 20px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" />
+  </div>
+
+  <div style="display: flex; align-items: center; justify-content: center; padding: 10px 20px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30" />
+  </div>
+
+  <div style="display: flex; align-items: center; justify-content: center; padding: 10px 20px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="30" />
+  </div>
+
+  <div style="display: flex; align-items: center; justify-content: center; padding: 10px 20px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" height="30" />
+  </div>
+
+  <div style="display: flex; align-items: center; justify-content: center; padding: 10px 20px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" />
+  </div>
+
+  <div style="display: flex; align-items: center; justify-content: center; padding: 10px 20px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" />
+  </div>
+
   <div style="display: flex; align-items: center; justify-content: center; padding: 10px 20px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="30" />
-  </div>
-
-  <div style="display: flex; align-items: center; justify-content: center; padding: 10px 20px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="30" />
-  </div>
-
-  <div style="display: flex; align-items: center; justify-content: center; padding: 10px 20px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" height="30" />
   </div>
 
 </div>
