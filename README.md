@@ -55,6 +55,9 @@
     <td align="center" style="padding: 15px;">
       <img src="https://img.shields.io/badge/Livewire-4E5D94?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" height="50" /><br/>
     </td>
+        <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Redux-4E5D94?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="50" /><br/>
+    </td>
   </tr>
 </table>
 
