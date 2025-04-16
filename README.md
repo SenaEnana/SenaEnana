@@ -60,8 +60,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/TypeScript-4E5D94?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript" height="50" /><br/>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/TypeScript-4E5D94?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="50" /><br/>
     </td>
   </tr>
 </table>
