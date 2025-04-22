@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-Tools & Technologies: Comfortable with Prisma for managing data models and PostgreSQL schema, along with various tools for building and deploying full-stack applications.<br/>
+Tools & Technologies: Comfortable with Prisma for managing data models and MySQL schema, along with various tools for building and deploying full-stack applications.<br/>
 ## 🌱 Currently Exploring<br/>
 I'm continually enhancing my knowledge, diving deeper into cloud architecture and exploring new frameworks and libraries to stay updated with the latest in tech.<br/>
 ## 💻 Projects<br/>
