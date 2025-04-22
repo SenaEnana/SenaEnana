@@ -27,6 +27,10 @@
     <td align="center" style="padding: 15px;">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="50" /><br/>
     </td>
+        </td>
+        <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="50" /><br/>
+    </td>
   </tr>
   <tr>
     <td align="center" style="padding: 15px;">
@@ -45,10 +49,6 @@
   <tr>
     <td align="center" style="padding: 15px;">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="50" /><br/>
-    </td>
-        <td align="center" style="padding: 15px;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="50" /><br/>
-    </td>
     <td align="center" style="padding: 15px;">
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="50" /><br/>
     </td>
