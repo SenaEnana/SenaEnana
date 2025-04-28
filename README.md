@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sena!
-<br/>I'm a full-stack developer who loves creating easy to use and reliable web applications. I love turning complex problems into simple solutions, and I'm continuously exploring new technologies to expand my skill set. Come and lets work together for better experiance.<br/>
+<br/>I'm a full-stack developer who loves creating easy to use or user friendly and reliable web applications. I love turning complex problems into simple solutions, and I'm continuously exploring new technologies to expand my skill set. Come and lets work together for better experiance.<br/>
 ## 🚀 Skills & Tools
 
 <table>
@@ -70,4 +70,4 @@ Tools & Technologies: Comfortable with Prisma for managing data models and MySQL
 ## 🌱 Currently Exploring<br/>
 I'm continually enhancing my knowledge, diving deeper into cloud architecture and exploring new frameworks and libraries to stay updated with the latest in tech.<br/>
 ## 💻 Projects<br/>
-I enjoy working on projects that challenge my skills and push me to learn new things. Check out my repositories to see my latest work!
+I enjoy working on projects that challenge my skills and push me to learn new things. Check out my repositories on my github to see my latest work!
