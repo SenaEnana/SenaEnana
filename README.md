@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sena!
-<br/>I'm a full-stack developer who loves creating easy to use or user friendly and reliable web applications. I love turning complex problems into simple solutions, and I'm continuously exploring new technologies to expand my skill set. Come and lets work together for better experiance and skill.<br/>
+<br/>I'm a full-stack developer who loves creating easy to use or user friendly and reliable web applications. I love turning complex problems into simple solutions, and I'm continuously exploring new technologies to expand my skill set. Come and lets work together for better experiance.<br/>
 ## 🚀 Skills & Tools
 
 <table>
