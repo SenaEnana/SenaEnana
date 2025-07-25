@@ -68,6 +68,6 @@
 
 Tools & Technologies: Comfortable with Prisma for managing data models and MySQL schema, along with various tools for building and deploying full-stack applications.<br/>
 ## 🌱 Currently Exploring<br/>
-I'm continually enhancing my knowledge, diving deeper into cloud architecture and exploring new frameworks and libraries to stay updated with the latest in tech.<br/>
+I'm continually modifying my knowledge, diving deeper into my skills and exploring new frameworks and libraries to stay updated with the latest in tech.<br/>
 ## 💻 Projects<br/>
 I enjoy working on projects that challenge my skills and push me to learn new things. Check out my repositories on my github to see my latest work!
