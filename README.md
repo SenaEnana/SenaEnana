@@ -53,21 +53,21 @@ I am a passionate Full Stack Developer with experience building web applications
 
 ## 📂 Projects
 
-### 🧑‍🎓 Student Agent System
-- Built a system to manage student-agent interactions
+### 🧑‍🎓 DoorTutor System
+- Built a system to connect students with their instructors for home toutor system.
 - Features: Authentication, dashboards, data management  
-- Tech: React, Laravel, MySQL  
+- Tech: NextJs, MySQL  
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/SenaEnana/dts-full)
 
 ---
 
-### 🏢 Human Resource Management System
-- Developed HR system for employee management  
-- Features: Employee records, attendance, reporting  
-- Tech: .NET, Bootstrap, SQL Server  
+### 🏢 Report Management System
+- Developed Report management system for Nib International Bank to manage reports.  
+- Features: POS records, POS performance reports, Merchant and branch details, dashboard and role based access control  
+- Tech: React, Tailwind, ShadCN, MySQL Server  
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/SenaEnana/report-management)
 
 ---
 
