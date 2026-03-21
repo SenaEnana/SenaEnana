@@ -41,7 +41,6 @@ I am a passionate Full Stack Developer with experience building web applications
     <td>
       <img src="https://skillicons.dev/icons?i=laravel" height="30" />
       <img src="https://skillicons.dev/icons?i=dotnet" height="30" />
-      <img src="https://skillicons.dev/icons?i=nodejs" height="30" />
     </td>
   </tr>
 
@@ -50,6 +49,7 @@ I am a passionate Full Stack Developer with experience building web applications
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" height="30" />
       <img src="https://skillicons.dev/icons?i=postgres" height="30" />
+      <img src="https://skillicons.dev/icons?i=sql" height="30" />
     </td>
   </tr>
 
@@ -89,7 +89,7 @@ I am a passionate Full Stack Developer with experience building web applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenaEnana&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SenaEnana&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=radical" />
 </p>
 
