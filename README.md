@@ -33,6 +33,8 @@ I am a passionate Full Stack Developer with experience building web applications
       <img src="https://skillicons.dev/icons?i=css" height="30" />
       <img src="https://skillicons.dev/icons?i=bootstrap" height="30" />
       <img src="https://skillicons.dev/icons?i=js" height="30" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="30" />
+      <img src="https://skillicons.dev/icons?i=ts" height="30" />
     </td>
   </tr>
 
@@ -41,6 +43,7 @@ I am a passionate Full Stack Developer with experience building web applications
     <td>
       <img src="https://skillicons.dev/icons?i=laravel" height="30" />
       <img src="https://skillicons.dev/icons?i=dotnet" height="30" />
+      <img src="https://skillicons.dev/icons?i=redux" height="30"
     </td>
   </tr>
 
@@ -49,7 +52,7 @@ I am a passionate Full Stack Developer with experience building web applications
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" height="30" />
       <img src="https://skillicons.dev/icons?i=postgres" height="30" />
-      <img src="https://skillicons.dev/icons?i=sql" height="30" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="30" />
     </td>
   </tr>
 
