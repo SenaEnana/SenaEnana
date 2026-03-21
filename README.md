@@ -18,36 +18,51 @@ I am a passionate Full Stack Developer with experience building web applications
 
 ## 🛠️ Skills
 
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=redux" />
-</p>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel" />
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-</p>
+  <tr>
+    <td><b>💻 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" height="30" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="30" />
+      <img src="https://skillicons.dev/icons?i=html" height="30" />
+      <img src="https://skillicons.dev/icons?i=css" height="30" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="30" />
+      <img src="https://skillicons.dev/icons?i=js" height="30" />
+    </td>
+  </tr>
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=sql" />
-</p>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=laravel" height="30" />
+      <img src="https://skillicons.dev/icons?i=dotnet" height="30" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="30" />
+    </td>
+  </tr>
 
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
+  <tr>
+    <td><b>🗄️ Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" height="30" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="30" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>🛠️ Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="30" />
+      <img src="https://skillicons.dev/icons?i=github" height="30" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="30" />
+    </td>
+  </tr>
+
+</table>
 
 ---
 
