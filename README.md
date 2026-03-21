@@ -89,7 +89,7 @@ I am a passionate Full Stack Developer with experience building web applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenaEnana&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SenaEnana&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=radical" />
 </p>
 
