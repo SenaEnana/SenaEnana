@@ -26,19 +26,20 @@ I am a passionate Full Stack Developer with experience building web applications
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=bootstrap" />
   <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=redux" />
 </p>
 
 ### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=laravel" />
   <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=sql" />
 </p>
 
 ### 🛠️ Tools
@@ -73,18 +74,18 @@ I am a passionate Full Stack Developer with experience building web applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SenaEnana&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Portfolio: https://yourportfolio.com  
+- 📧 Email: senaad47@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sena-adane-h0p3-l1f3 
+- 🌐 Portfolio: https://sena-adane-portfolio-website.vercel.app/  
 
 ---
 
-⭐️ From [Sena](https://github.com/YOUR_USERNAME)
+⭐️ From [Sena](https://github.com/SenaEnana)
