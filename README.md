@@ -43,7 +43,7 @@ I am a passionate Full Stack Developer with experience building web applications
     <td>
       <img src="https://skillicons.dev/icons?i=laravel" height="30" />
       <img src="https://skillicons.dev/icons?i=dotnet" height="30" />
-      <img src="https://skillicons.dev/icons?i=redux" height="30"
+      <img src="https://skillicons.dev/icons?i=redux" height="30" />
     </td>
   </tr>
 
@@ -52,7 +52,7 @@ I am a passionate Full Stack Developer with experience building web applications
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" height="30" />
       <img src="https://skillicons.dev/icons?i=postgres" height="30" />
-      <img src="https://skillicons.dev/icons?i=mysql" height="30" />
+      <img src="https://skillicons.dev/icons?i=sqlite" height="30" />
     </td>
   </tr>
 
@@ -72,7 +72,7 @@ I am a passionate Full Stack Developer with experience building web applications
 ## 📂 Projects
 
 ### 🧑‍🎓 DoorTutor System
-- Built a system to connect students with their instructors for home toutor system.
+- Built a system to connect students with their instructors for home tutor system.
 - Features: Authentication, dashboards, data management  
 - Tech: NextJs, MySQL  
 
@@ -92,8 +92,8 @@ I am a passionate Full Stack Developer with experience building web applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenaEnana&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SenaEnana&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
