@@ -54,8 +54,6 @@ Developed a report management system for Nib International Bank to manage mercha
 
 React • Tailwind CSS • ShadCN UI • MySQL
 
-🔗 View Project
-
 🔗 [View Project](https://github.com/SenaEnana/report-management)
 
 ---
