@@ -67,60 +67,11 @@ React • Tailwind CSS • ShadCN UI • MySQL
 
 ---
 
-## 🛠️ Skills
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,laravel,dotnet,mysql,postgres,sqlite,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,laravel,dotnet,mysql,postgres,sqlite,git,github,vscode" />
 </p>
-
-<table align="center">
-  <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
-
-  <tr>
-    <td><b>💻 Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react" height="30" />
-      <img src="https://skillicons.dev/icons?i=nextjs" height="30" />
-      <img src="https://skillicons.dev/icons?i=html" height="30" />
-      <img src="https://skillicons.dev/icons?i=css" height="30" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" height="30" />
-      <img src="https://skillicons.dev/icons?i=js" height="30" />
-      <img src="https://skillicons.dev/icons?i=tailwind" height="30" />
-      <img src="https://skillicons.dev/icons?i=ts" height="30" />
-      <img src="https://skillicons.dev/icons?i=redux" height="30" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>⚙️ Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=laravel" height="30" />
-      <img src="https://skillicons.dev/icons?i=dotnet" height="30" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🗄️ Database</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql" height="30" />
-      <img src="https://skillicons.dev/icons?i=postgres" height="30" />
-      <img src="https://skillicons.dev/icons?i=sqlite" height="30" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🛠️ Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" height="30" />
-      <img src="https://skillicons.dev/icons?i=github" height="30" />
-      <img src="https://skillicons.dev/icons?i=vscode" height="30" />
-    </td>
-  </tr>
-
-</table>
 
 ---
 
