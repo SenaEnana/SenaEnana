@@ -30,7 +30,7 @@ Built a system to connect students with their instructors for home tutor system.
 - Interactive dashboards
 - Data management
   
-  🛠 Tech Stack
+🛠 Tech Stack
   
   NextJs • MySQL  
 
