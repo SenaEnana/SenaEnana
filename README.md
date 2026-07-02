@@ -73,7 +73,7 @@ React • Tailwind CSS • ShadCN UI • MySQL
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,laravel,dotnet,mysql,postgres,sqlite,git,github,vscode" />
 </p>
 
-<table>
+<table align="center">
   <tr>
     <th>Category</th>
     <th>Technologies</th>
