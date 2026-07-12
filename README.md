@@ -2,7 +2,7 @@
 
 💻 Software Engineer | Full Stack Developer
 
-I build modern web applications using React, Next.js, Laravel, and .NET.
+I build modern web applications using React, Next.js, Laravel, Python and .NET.
 
 🌍 Open to Remote Software Engineering Opportunities
 
