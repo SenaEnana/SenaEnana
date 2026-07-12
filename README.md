@@ -60,7 +60,7 @@ React • Tailwind CSS • ShadCN UI • MySQL
 
 ## 🌱 Currently Working On
 
-- 🚀 Building full stack web applications with Next.js
+- 🚀 Building full stack web applications with Next.js and Python
 - 📖 Learning scalable backend architecture and Python
 - 💼 Looking for remote Software Engineering opportunities
 - 🤝 Contributing to open source whenever possible
@@ -112,4 +112,4 @@ React • Tailwind CSS • ShadCN UI • MySQL
 
 ---
 
-⭐️ Thanks for visiting my profile! Feel free to connect or collaborate.
+⭐️ Thanks for visiting my profile! You can connect or collaborate.
