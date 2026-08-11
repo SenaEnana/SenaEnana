@@ -58,7 +58,7 @@ React • Tailwind CSS • ShadCN UI • MySQL
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,python,ts,js,redux,tailwind,laravel,livewire,dotnet,mysql,postgres,prisma,sqlite,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,python,ts,js,php,redux,tailwind,laravel,alpinejs,dotnet,mysql,postgres,prisma,sqlite,git,github,vscode" />
 </p>
 
 ---
