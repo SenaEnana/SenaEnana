@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sena
 
 💻 Full-Stack Software Engineer 
+
 🌍 Open to Remote Engineering Opportunities & Collaboration
 
 I build modern, scalable web applications with a focus on robust backend architecture. My core stack includes React/Next.js, Python, Laravel, and .NET.
