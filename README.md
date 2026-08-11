@@ -1,21 +1,18 @@
 # 👋 Hi, I'm Sena
 
-💻 Software Engineer | Full Stack Developer
+💻 Full-Stack Software Engineer 
+🌍 Open to Remote Engineering Opportunities & Collaboration
 
-I build modern web applications using React, Next.js, Laravel, Python and .NET.
-
-🌍 Open to Remote Software Engineering Opportunities
+I build modern, scalable web applications with a focus on robust backend architecture. My core stack includes React/Next.js, Python, Laravel, and .NET.
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer passionate about building scalable and user-friendly web applications. I enjoy solving real-world problems, learning modern technologies, and turning ideas into reliable software.
+I am a Software Engineer passionate about solving real-world data and operational problems. Whether I'm designing relational database schemas, optimizing backend workflows, or crafting intuitive user interfaces, I focus on building reliable, clean software.
 
-- 💻 Building full stack applications
-- ⚙️ Interested in backend architecture and system design
-- 📚 Currently learning Advanced Next.js, Python and scalable backend development
-- 🤝 Open to remote software engineering opportunities and collaboration
+- ⚙️ **Focus Areas:** Backend architecture, system design, and database optimization.
+- 📚 **Current Deep Dives:** Advanced Next.js features, scalable Python microservices, and API integrations.
 
 ---
 
@@ -55,15 +52,6 @@ Developed a report management system for Nib International Bank to manage mercha
 React • Tailwind CSS • ShadCN UI • MySQL
 
 🔗 [View Project](https://github.com/SenaEnana/report-management)
-
----
-
-## 🌱 Currently Working On
-
-- 🚀 Building full stack web applications with Next.js and Python
-- 📖 Learning scalable backend architecture and Python
-- 💼 Looking for remote Software Engineering opportunities
-- 🤝 Contributing to open source whenever possible
 
 ---
 
