@@ -30,7 +30,7 @@ Built a system to connect students with their instructors for home tutor system.
   
 🛠 Tech Stack
   
-  NextJs • MySQL  
+ NextJs • MySQL  
 
 🔗 [View Project](https://github.com/SenaEnana/dts-full)
 
@@ -61,6 +61,12 @@ React • Tailwind CSS • ShadCN UI • MySQL
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,python,ts,js,php,redux,tailwind,bootstrap,laravel,alpinejs,dotnet,mysql,postgres,prisma,sqlite,git,github,vscode" />
 </p>
+
+---
+
+## 📜 Certifications
+
+- 🐍 **Python Programming Certification** – *[FreeCodeCamp]* ([Verify Credential](https://freecodecamp.org/certification/senaadane/python-v9))
 
 ---
 
@@ -100,6 +106,5 @@ React • Tailwind CSS • ShadCN UI • MySQL
 </p>
 
 ---
-
 
 ⭐️ Thanks for visiting my profile! You can connect or collaborate.
