@@ -12,7 +12,7 @@ I build modern, scalable web applications with a focus on robust backend archite
 
 I am a Software Engineer passionate about solving real-world data and operational problems. Whether I'm designing relational database schemas, optimizing backend workflows, or crafting intuitive user interfaces, I focus on building reliable, clean software.
 
-- ⚙️ **Focus Areas:** Backend architecture, system design, and database optimization.
+- ⚙️ **Focus Areas:** Full stack architecture, system design, and database optimization.
 - 📚 **Current Deep Dives:** Advanced Next.js features, scalable Python microservices, and API integrations.
 
 ---
