@@ -107,4 +107,4 @@ React • Tailwind CSS • ShadCN UI • MySQL
 
 ---
 
-⭐️ Thanks for visiting my profile! You can connect or collaborate.
+⭐️ Thanks for visiting my profile! You can connect and collaborate.
