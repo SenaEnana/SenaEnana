@@ -66,7 +66,8 @@ React • Tailwind CSS • ShadCN UI • MySQL
 
 ## 📜 Certifications
 
-- 🐍 **Python Programming Certification** – *[FreeCodeCamp]* ([Verify Credential](https://freecodecamp.org/certification/senaadane/python-v9))
+- 🐍 **Python Programming Certification** – *FreeCodeCamp* 
+  [Verify Credential](https://freecodecamp.org/certification/senaadane/python-v9) • [Coursework & Projects Repo](https://github.com/SenaEnana/Python-Certificate-Labs)
 
 ---
 
