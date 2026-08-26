@@ -74,16 +74,16 @@ React • Tailwind CSS • ShadCN UI • MySQL
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sage-xi-75.vercel.app/api?username=SenaEnana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-sage-xi-75.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SenaEnana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Sena's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SenaEnana&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SenaEnana&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenaEnana&theme=github-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenaEnana&theme=github-dark" alt="Activity Graph" />
 </p>
 
 ---
