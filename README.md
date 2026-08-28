@@ -80,7 +80,7 @@ React • Tailwind CSS • ShadCN UI • MySQL
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-pi-roan.vercel.app/?user=SenaEnana&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats-pi-roan.vercel.app/?user=SenaEnana&hide_border=true"/>
 </p>
 
 <p align="center">
