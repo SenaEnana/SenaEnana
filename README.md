@@ -74,12 +74,13 @@ React • Tailwind CSS • ShadCN UI • MySQL
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sage-xi-75.vercel.app/api?username=SenaEnana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-sage-xi-75.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-frontend-beryl.vercel.app/api?username=SenaEnana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  
+  <img height="170" src="https://github-readme-stats-frontend-beryl.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SenaEnana&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SenaEnana&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
