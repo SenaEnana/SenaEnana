@@ -84,7 +84,7 @@ React • Tailwind CSS • ShadCN UI • MySQL
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenaEnana&theme=github-dark"/>
+  <img src="https://github-readme-activity-graph-ivory-seven.vercel.app/?user=SenaEnana&theme=github-dark"/>
 </p>
 
 ---
