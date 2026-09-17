@@ -104,7 +104,6 @@ React • Tailwind CSS • ShadCN UI • MySQL
 <a href="https://sena-adane-portfolio-website.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel">
 </a>
-
 </p>
 
 ---
