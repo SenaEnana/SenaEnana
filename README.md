@@ -16,7 +16,7 @@ I enjoy working across the full stack — from designing responsive interfaces a
 
 - ⚙️ **Focus Areas:** Full-stack development, API development, database-driven applications, and system architecture.
 - 🏢 **Professional Experience:** Frontend development and enterprise software development.
-- 🌱 **Currently Exploring:** Advanced Next.js, Python/FastAPI, scalable backend architecture, and AI-powered applications.
+- 🧩 **Core Technologies:** React, Next.js, TypeScript, Python, FastAPI, Laravel, .NET, PostgreSQL, and MySQL.
 
 ---
 
