@@ -1,46 +1,94 @@
 # 👋 Hi, I'm Sena
 
-💻 Full-Stack Software Engineer 
+💻 **Full-Stack Software Engineer**
 
-🌍 Open to Remote Engineering Opportunities & Collaboration
+🌍 **Open to Remote Engineering Opportunities & Collaboration**
 
-I build modern, scalable web applications with a focus on robust backend architecture. My core stack includes React/Next.js, Python, Laravel, and .NET.
+I build modern, scalable web applications with a focus on clean architecture, reliable APIs, and intuitive user experiences. My core stack includes **React, Next.js, TypeScript, Python, FastAPI, Laravel, and .NET**, with experience working across relational databases and REST APIs.
 
 ---
 
 ## 🚀 About Me
 
-I am a Software Engineer passionate about solving real-world data and operational problems. Whether I'm designing relational database schemas, optimizing backend workflows, or crafting intuitive user interfaces, I focus on building reliable, clean software.
+I'm a Software Engineer passionate about solving real-world problems through software.
 
-- ⚙️ **Focus Areas:** Full stack architecture, system design, and database optimization.
-- 📚 **Current Deep Dives:** Advanced Next.js features, scalable Python microservices, and API integrations.
+I enjoy working across the full stack — from designing responsive interfaces and building REST APIs to working with relational databases and deploying applications.
+
+- ⚙️ **Focus Areas:** Full-stack development, API development, database-driven applications, and system architecture.
+- 🏢 **Professional Experience:** Frontend development and enterprise software development.
+- 🌱 **Currently Exploring:** Advanced Next.js, Python/FastAPI, scalable backend architecture, and AI-powered applications.
 
 ---
 
-## 📂 Projects
+## 💼 Experience
 
-### 🧑‍🎓 DoorTutor System
+### 🏦 Frontend Developer — Nib International Bank
 
-Built a system to connect students with their instructors for home tutor system.
+**Apr 2025 – Present**
 
-✨ Key Features 
-- Role-based authentication
-- Interactive dashboards
-- Data management
-  
-🛠 Tech Stack
-  
- NextJs • MySQL  
+Working on a **Report Management System** designed to help manage merchant and POS-related reports and operations.
 
-🔗 [View Project](https://github.com/SenaEnana/dts-full)
+**Responsibilities & Contributions:**
+
+- Building responsive interfaces with React and Tailwind CSS
+- Integrating REST APIs
+- Developing report management and filtering workflows
+- Building dashboards and data-driven interfaces
+- Collaborating through GitHub in an Agile development workflow
+
+**Tech:** React • Vite • Tailwind CSS • REST APIs • GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🎵 Smart Music Recommendation API
+
+An intelligent music recommendation system that recommends songs based on characteristics such as **genre, mood, theme, language, and explicit-content preference**.
+
+✨ **Key Features**
+
+- Song-based recommendations
+- Genre and mood matching
+- Theme/meaning-based matching
+- Explicit-content filtering
+- RESTful API
+- Interactive Swagger API documentation
+- PostgreSQL database
+
+🛠 **Tech Stack**
+
+React • Vite • FastAPI • Python • PostgreSQL • Tailwind CSS
+
+🔗 [Live Demo](https://smart-music-recommendation.vercel.app/) • [View Repository](https://github.com/SenaEnana/Smart_Music_Recommendation_API)
+
+---
+
+### 🌐 Personal Portfolio
+
+A modern personal portfolio built to showcase my projects, experience, technical skills, and software engineering journey.
+
+✨ **Key Features**
+
+- Responsive modern UI
+- Project showcase
+- Experience & skills sections
+- Contact form with email integration
+- Built with Next.js
+
+🛠 **Tech Stack**
+
+Next.js • TypeScript • Tailwind CSS
+
+🔗 [Live Portfolio](https://sena-portfolio-two.vercel.app/)
 
 ---
 
 ### 🏢 Report Management System
 
-Developed a report management system for Nib International Bank to manage merchant and POS reports efficiently.
+A report management system developed for **Nib International Bank** to manage merchant and POS reports efficiently.
 
-✨ Key Features
+✨ **Key Features**
 
 - Role-based authentication
 - Interactive dashboards
@@ -48,43 +96,71 @@ Developed a report management system for Nib International Bank to manage mercha
 - Merchant & branch management
 - Data filtering and exporting
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
-React • Tailwind CSS • ShadCN UI • MySQL
+React • Tailwind CSS • ShadCN UI • REST APIs
 
-🔗 [View Project](https://github.com/SenaEnana/report-management)
+🔗 [View Repository](https://github.com/SenaEnana/report-management)
+
+---
+
+### 🧑‍🎓 DoorTutor System
+
+A platform designed to connect students with instructors for home tutoring.
+
+✨ **Key Features**
+
+- Role-based authentication
+- Interactive dashboards
+- Student and instructor management
+- Data management
+
+🛠 **Tech Stack**
+
+Next.js • MySQL
+
+🔗 [View Repository](https://github.com/SenaEnana/dts-full)
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,python,ts,js,php,redux,tailwind,bootstrap,laravel,alpinejs,dotnet,mysql,postgres,prisma,sqlite,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,python,fastapi,ts,js,php,redux,tailwind,bootstrap,laravel,alpinejs,dotnet,mysql,postgres,prisma,sqlite,git,github,vscode" />
+
 </p>
 
 ---
 
 ## 📜 Certifications
 
-- 🐍 **Python Programming Certification and Lab** – *FreeCodeCamp* 
-  [Verify Credential](https://freecodecamp.org/certification/senaadane/python-v9) • [Coursework & Projects Repo](https://github.com/SenaEnana/Python-Certificate-Labs)
+- 🐍 **Python Programming Certification and Lab** — *freeCodeCamp*
+
+  [Verify Credential](https://freecodecamp.org/certification/senaadane/python-v9) • [Coursework & Projects Repository](https://github.com/SenaEnana/Python-Certificate-Labs)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-frontend-beryl.vercel.app/api?username=SenaEnana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  
-  <img height="170" src="https://github-readme-stats-frontend-beryl.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats-frontend-beryl.vercel.app/api?username=SenaEnana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats-frontend-beryl.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=github_dark&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-pi-roan.vercel.app/?user=SenaEnana&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats-pi-roan.vercel.app/?user=SenaEnana&theme=github-dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-ivory-seven.vercel.app/graph?username=SenaEnana&theme=github-dark"/>
+
+<img src="https://github-readme-activity-graph-ivory-seven.vercel.app/graph?username=SenaEnana&theme=github-dark"/>
+
 </p>
 
 ---
@@ -93,19 +169,22 @@ React • Tailwind CSS • ShadCN UI • MySQL
 
 <p align="center">
 
-<a href="mailto:senaad47@example.com">
+<a href="mailto:senaad47@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://www.linkedin.com/in/sena-adane-h0p3-l1f3">
+<a href="https://www.linkedin.com/in/sena-adane/">
 <img src="https://img.shields.io/badge/LinkedIn-Sena%20Adane-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://sena-portfolio-two.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel">
 </a>
+
 </p>
 
 ---
 
-⭐️ Thanks for visiting my profile! You can connect and collaborate.
+⭐️ Thanks for visiting my profile!
+
+Feel free to connect, collaborate, or check out some of my projects.
