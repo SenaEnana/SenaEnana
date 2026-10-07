@@ -104,7 +104,34 @@ React • Tailwind CSS • ShadCN UI • REST APIs
 
 ---
 
+### 🧑‍🎓 DoorTutor System
 
+A platform designed to connect students with instructors for home tutoring.
+
+✨ **Key Features**
+
+- Role-based authentication
+- Interactive dashboards
+- Student and instructor management
+- Data management
+
+🛠 **Tech Stack**
+
+Next.js • MySQL
+
+🔗 [View Repository](https://github.com/SenaEnana/dts-full)
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,python,fastapi,ts,js,php,redux,tailwind,bootstrap,laravel,alpinejs,dotnet,mysql,postgres,prisma,sqlite,git,github,vscode" />
+
+</p>
+
+---
 
 
 ## 📜 Certifications
