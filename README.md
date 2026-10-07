@@ -84,6 +84,27 @@ Next.js • TypeScript • Tailwind CSS
 
 ---
 
+### 🏢 Report Management System
+
+A report management system developed for **Nib International Bank** to manage merchant and POS reports efficiently.
+
+✨ **Key Features**
+
+- Role-based authentication
+- Interactive dashboards
+- POS performance reports
+- Merchant & branch management
+- Data filtering and exporting
+
+🛠 **Tech Stack**
+
+React • Tailwind CSS • ShadCN UI • REST APIs
+
+🔗 [View Repository](https://github.com/SenaEnana/report-management)
+
+---
+
+
 
 
 ## 📜 Certifications
