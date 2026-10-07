@@ -133,28 +133,34 @@ Next.js • MySQL
 
 ---
 
-
 ## 📜 Certifications
 
-- 🐍 **Python Programming Certification and Lab** – *FreeCodeCamp* 
-  [Verify Credential](https://freecodecamp.org/certification/senaadane/python-v9) • [Coursework & Projects Repo](https://github.com/SenaEnana/Python-Certificate-Labs)
+- 🐍 **Python Programming Certification and Lab** — *freeCodeCamp*
+
+  [Verify Credential](https://freecodecamp.org/certification/senaadane/python-v9) • [Coursework & Projects Repository](https://github.com/SenaEnana/Python-Certificate-Labs)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-frontend-beryl.vercel.app/api?username=SenaEnana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  
-  <img height="170" src="https://github-readme-stats-frontend-beryl.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats-frontend-beryl.vercel.app/api?username=SenaEnana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats-frontend-beryl.vercel.app/api/top-langs/?username=SenaEnana&layout=compact&theme=github_dark&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-pi-roan.vercel.app/?user=SenaEnana&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats-pi-roan.vercel.app/?user=SenaEnana&theme=github-dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-ivory-seven.vercel.app/graph?username=SenaEnana&theme=github-dark"/>
+
+<img src="https://github-readme-activity-graph-ivory-seven.vercel.app/graph?username=SenaEnana&theme=github-dark"/>
+
 </p>
 
 ---
@@ -163,19 +169,22 @@ Next.js • MySQL
 
 <p align="center">
 
-<a href="mailto:senaad47@example.com">
+<a href="mailto:senaad47@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://www.linkedin.com/in/sena-adane-h0p3-l1f3">
+<a href="https://www.linkedin.com/in/sena-adane/">
 <img src="https://img.shields.io/badge/LinkedIn-Sena%20Adane-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://sena-portfolio-two.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel">
 </a>
+
 </p>
 
 ---
 
-⭐️ Thanks for visiting my profile! You can connect and collaborate.
+⭐️ Thanks for visiting my profile!
+
+Feel free to connect, collaborate, or check out some of my projects.
