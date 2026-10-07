@@ -64,14 +64,27 @@ React • Vite • FastAPI • Python • PostgreSQL • Tailwind CSS
 
 ---
 
+### 🌐 Personal Portfolio
 
-## 🛠 Tech Stack
+A modern personal portfolio built to showcase my projects, experience, technical skills, and software engineering journey.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,python,ts,js,php,redux,tailwind,bootstrap,laravel,alpinejs,dotnet,mysql,postgres,prisma,sqlite,git,github,vscode" />
-</p>
+✨ **Key Features**
+
+- Responsive modern UI
+- Project showcase
+- Experience & skills sections
+- Contact form with email integration
+- Built with Next.js
+
+🛠 **Tech Stack**
+
+Next.js • TypeScript • Tailwind CSS
+
+🔗 [Live Portfolio](https://sena-portfolio-two.vercel.app/)
 
 ---
+
+
 
 ## 📜 Certifications
 
