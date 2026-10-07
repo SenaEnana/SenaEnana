@@ -40,44 +40,30 @@ Working on a **Report Management System** designed to help manage merchant and P
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-### 🧑‍🎓 DoorTutor System
+### 🎵 Smart Music Recommendation API
 
-Built a system to connect students with their instructors for home tutor system.
+An intelligent music recommendation system that recommends songs based on characteristics such as **genre, mood, theme, language, and explicit-content preference**.
 
-✨ Key Features 
-- Role-based authentication
-- Interactive dashboards
-- Data management
-  
-🛠 Tech Stack
-  
- NextJs • MySQL  
+✨ **Key Features**
 
-🔗 [View Project](https://github.com/SenaEnana/dts-full)
+- Song-based recommendations
+- Genre and mood matching
+- Theme/meaning-based matching
+- Explicit-content filtering
+- RESTful API
+- Interactive Swagger API documentation
+- PostgreSQL database
 
----
+🛠 **Tech Stack**
 
-### 🏢 Report Management System
+React • Vite • FastAPI • Python • PostgreSQL • Tailwind CSS
 
-Developed a report management system for Nib International Bank to manage merchant and POS reports efficiently.
-
-✨ Key Features
-
-- Role-based authentication
-- Interactive dashboards
-- POS performance reports
-- Merchant & branch management
-- Data filtering and exporting
-
-🛠 Tech Stack
-
-React • Tailwind CSS • ShadCN UI • MySQL
-
-🔗 [View Project](https://github.com/SenaEnana/report-management)
+🔗 [Live Demo](https://smart-music-recommendation.vercel.app/) • [View Repository](https://github.com/SenaEnana/Smart_Music_Recommendation_API)
 
 ---
+
 
 ## 🛠 Tech Stack
 
