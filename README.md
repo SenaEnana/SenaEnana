@@ -10,12 +10,16 @@ I build modern, scalable web applications with a focus on clean architecture, re
 
 ## 🚀 About Me
 
-I am a Software Engineer passionate about solving real-world data and operational problems. Whether I'm designing relational database schemas, optimizing backend workflows, or crafting intuitive user interfaces, I focus on building reliable, clean software.
+I'm a Software Engineer passionate about solving real-world problems through software.
 
-- ⚙️ **Focus Areas:** Full stack architecture, system design, and database optimization.
-- 📚 **Current Deep Dives:** Advanced Next.js features, scalable Python microservices, and API integrations.
+I enjoy working across the full stack — from designing responsive interfaces and building REST APIs to working with relational databases and deploying applications.
+
+- ⚙️ **Focus Areas:** Full-stack development, API development, database-driven applications, and system architecture.
+- 🏢 **Professional Experience:** Frontend development and enterprise software development.
+- 🌱 **Currently Exploring:** Advanced Next.js, Python/FastAPI, scalable backend architecture, and AI-powered applications.
 
 ---
+
 
 ## 📂 Projects
 
