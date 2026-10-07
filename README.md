@@ -20,6 +20,25 @@ I enjoy working across the full stack — from designing responsive interfaces a
 
 ---
 
+## 💼 Experience
+
+### 🏦 Frontend Developer — Nib International Bank
+
+**Apr 2025 – Present**
+
+Working on a **Report Management System** designed to help manage merchant and POS-related reports and operations.
+
+**Responsibilities & Contributions:**
+
+- Building responsive interfaces with React and Tailwind CSS
+- Integrating REST APIs
+- Developing report management and filtering workflows
+- Building dashboards and data-driven interfaces
+- Collaborating through GitHub in an Agile development workflow
+
+**Tech:** React • Vite • Tailwind CSS • REST APIs • GitHub
+
+---
 
 ## 📂 Projects
 
