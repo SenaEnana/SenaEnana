@@ -114,7 +114,7 @@ A platform designed to connect students with instructors for home tutoring.
 
 Next.js • MySQL
 
-🔗 [View Repository](https://github.com/SenaEnana/dts-full)
+<!-- 🔗 [View Repository](https://github.com/SenaEnana/dts-full) -->
 
 ---
 
