@@ -22,12 +22,12 @@ I enjoy working across the full stack — from designing responsive interfaces a
 
 ## 💼 Experience
 
-- 🏦 **Frontend Developer — Nib International Bank**  
+- 🏦 **Independent Software Developer — Personal Projects**  
   *Apr 2025 – Present*  
-  Build enterprise reporting solutions using React, Vite, Tailwind CSS, and REST APIs.
+   Develop independent web applications, explore new technologies, and strengthen full-stack development skills through hands-on projects.
 
-- 💻 **Frontend Developer — Hawi Software Solutions**  
-  *Jan 2025 – Apr 2025*  
+- 💻 **Full-stack Developer — Hawi Software Solutions**  
+  *Jul 2025 – Apr 2025*  
   Developed responsive web applications and user interfaces for education-focused systems.
 
 - 🚀 **Software Engineering Projects**  
