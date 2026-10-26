@@ -55,7 +55,7 @@ An intelligent music recommendation system that recommends songs based on charac
 
 React • Vite • FastAPI • Python • PostgreSQL • Tailwind CSS
 
-🔗 [Live Demo](https://smart-music-recommendation.vercel.app/) • [View Repository](https://github.com/SenaEnana/Smart_Music_Recommendation_API)
+🔗 [Live Demo](https://smart-music-recommendation.vercel.app/) <!-- • [View Repository](https://github.com/SenaEnana/Smart_Music_Recommendation_API)-->
 
 ---
 
